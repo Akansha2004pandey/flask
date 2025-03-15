@@ -6,3 +6,4 @@ torch==2.5.1 -f https://download.pytorch.org/whl/torch_stable.html
 transformers==4.46.1
 werkzeug==3.0.4
 pinecone-client==5.0.1
+gunicorn
